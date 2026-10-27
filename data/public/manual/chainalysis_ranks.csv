@@ -1,0 +1,25 @@
+edition,iso3,overall_rank,index_variant,methodology_note,source
+2022,VNM,1,overall,"centralized/retail/P2P/DeFi sub-indices",https://www.chainalysis.com/blog/2022-global-crypto-adoption-index/
+2022,PHL,2,overall,"centralized/retail/P2P/DeFi sub-indices",https://www.chainalysis.com/blog/2022-global-crypto-adoption-index/
+2022,THA,8,overall,"centralized/retail/P2P/DeFi sub-indices",https://www.chainalysis.com/blog/2022-global-crypto-adoption-index/
+2022,IDN,20,overall,"centralized/retail/P2P/DeFi sub-indices",https://www.chainalysis.com/blog/2022-global-crypto-adoption-index/
+2023,VNM,3,overall,"adds income-weighting; P2P sub-index kept",https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/
+2023,PHL,6,overall,"adds income-weighting; P2P sub-index kept",https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/
+2023,IDN,7,overall,"adds income-weighting; P2P sub-index kept",https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/
+2023,THA,10,overall,"adds income-weighting; P2P sub-index kept",https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/
+2024,IDN,3,overall,"P2P sub-index dropped",https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+2024,VNM,5,overall,"P2P sub-index dropped",https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+2024,PHL,8,overall,"P2P sub-index dropped",https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+2024,THA,16,overall,"P2P sub-index dropped",https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+2024,KHM,17,overall,"P2P sub-index dropped",https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/
+2025,VNM,4,overall,"adds institutional sub-index",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,IDN,7,overall,"adds institutional sub-index",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,PHL,9,overall,"adds institutional sub-index",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,THA,17,overall,"adds institutional sub-index",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,VNM,6,per_capita,"population-adjusted variant",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,KHM,13,per_capita,"population-adjusted variant",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2025,SGP,15,per_capita,"population-adjusted variant",https://www.chainalysis.com/blog/2025-global-crypto-adoption-index/
+2026,THA,8,overall,"new method: total flows, balances, P2P economy, cross-border flows",https://www.chainalysis.com/blog/2026-global-crypto-adoption-index/
+2026,IDN,14,overall,"new method: total flows, balances, P2P economy, cross-border flows",https://www.chainalysis.com/blog/2026-global-crypto-adoption-index/
+2026,VNM,18,overall,"new method: total flows, balances, P2P economy, cross-border flows",https://www.chainalysis.com/blog/2026-global-crypto-adoption-index/
+2026,PHL,19,overall,"new method: total flows, balances, P2P economy, cross-border flows",https://www.chainalysis.com/blog/2026-global-crypto-adoption-index/

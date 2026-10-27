@@ -1,0 +1,54 @@
+category,iso3,launch_year,player,source_1,source_2,status,note
+ride_hailing,USA,2010,Uber,https://en.wikipedia.org/wiki/Timeline_of_Uber,,single_source,UberCab San Francisco launch 2010
+ride_hailing,CHN,2012,Didi Dache,https://en.wikipedia.org/wiki/DiDi,https://www.sec.gov/Archives/edgar/data/1764757/000141057825000806/didi-20241231x20f.htm,verified,
+ride_hailing,IND,2010,Ola,https://en.wikipedia.org/wiki/Ola_Consumer,https://www.quora.com/Who-came-to-Mumbai-first-Ola-or-Uber,single_source,founded 3 Dec 2010
+ride_hailing,MYS,2012,MyTeksi (Grab),https://en.wikipedia.org/wiki/Grab_Holdings,https://vulcanpost.com/737512/grab-ride-hailing-startup-to-super-app/,verified,
+ride_hailing,PHL,2013,GrabTaxi,https://en.wikipedia.org/wiki/Grab_Holdings,https://reference.nlb.gov.sg/launch/stories/grab/,verified,Aug 2013
+ride_hailing,SGP,2013,GrabTaxi / Uber,https://en.wikipedia.org/wiki/Grab_Holdings,https://reference.nlb.gov.sg/launch/stories/grab/,verified,Oct 2013
+ride_hailing,THA,2013,GrabTaxi,https://en.wikipedia.org/wiki/Grab_Holdings,https://reference.nlb.gov.sg/launch/stories/grab/,verified,Oct 2013
+ride_hailing,VNM,2014,GrabTaxi,https://en.wikipedia.org/wiki/Grab_Holdings,https://reference.nlb.gov.sg/launch/stories/grab/,verified,Feb 2014
+ride_hailing,IDN,2014,GrabTaxi,https://en.wikipedia.org/wiki/Grab_Holdings,https://reference.nlb.gov.sg/launch/stories/grab/,verified,Jun 2014; Gojek app 2015
+food_delivery,USA,2004,GrubHub,https://en.wikipedia.org/wiki/Grubhub,https://about.grubhub.com/about-us/company-timeline/default.aspx,verified,
+food_delivery,CHN,2008,Ele.me,https://www.verdictfoodservice.com/analyst-comment/online-food-delivery-timeline/,,single_source,
+food_delivery,IND,2014,Swiggy,https://www.verdictfoodservice.com/analyst-comment/online-food-delivery-timeline/,https://matrixbcg.com/blogs/brief-history/zomato,verified,Zomato delivery 2015
+food_delivery,SGP,2012,foodpanda,https://en.wikipedia.org/wiki/Foodpanda,https://www.foodpanda.com/wp-content/uploads/2021/01/EN-Backgrounder-foodpanda-APAC.pdf,verified,
+food_delivery,MYS,2012,foodpanda,https://en.wikipedia.org/wiki/Foodpanda,https://www.foodpanda.com/wp-content/uploads/2021/01/EN-Backgrounder-foodpanda-APAC.pdf,verified,
+food_delivery,THA,2012,foodpanda,https://en.wikipedia.org/wiki/Foodpanda,https://thelowdown.momentum.asia/foodpanda-exits-thailand-after-13-years-what-happened%EF%BC%9F-impulso-e117/,verified,
+food_delivery,PHL,2012,foodpanda,https://en.wikipedia.org/wiki/Foodpanda,https://sg.news.yahoo.com/foodpanda-opens-online-doors-philippines-063012781.html,verified,
+food_delivery,IDN,2012,foodpanda,https://en.wikipedia.org/wiki/Foodpanda,,single_source,GoFood 2015
+food_delivery,VNM,2011,Vietnammm,https://kamereo.vn/blog/en/5-food-delivery-apps-to-try-in-saigon/,,single_source,
+ecommerce_marketplace,USA,1995,eBay,https://en.wikipedia.org/wiki/EBay,https://www.thestreet.com/markets/history-of-ebay,verified,
+ecommerce_marketplace,CHN,2003,Taobao,https://baike.baidu.com/en/item/Taobao/986176,,single_source,
+ecommerce_marketplace,IND,2007,Flipkart,https://historytimelines.co/timeline/flipkart,,single_source,
+ecommerce_marketplace,IDN,2009,Tokopedia,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kr-asia.com/bukalapak-adapts-beyond-metro-areas-to-face-off-with-tokopedia-and-shopee-ahead-of-idx-listing,verified,earlier local classifieds existed in several countries
+ecommerce_marketplace,MYS,2012,Lazada,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kathrynread.com/top-southeast-asia-ecommerce-companies-shopee-lazada-and-co/,verified,Lelong (1998) predates as a smaller marketplace
+ecommerce_marketplace,PHL,2012,Lazada,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kathrynread.com/top-southeast-asia-ecommerce-companies-shopee-lazada-and-co/,verified,
+ecommerce_marketplace,SGP,2012,Lazada,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kathrynread.com/top-southeast-asia-ecommerce-companies-shopee-lazada-and-co/,verified,
+ecommerce_marketplace,THA,2012,Lazada,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kathrynread.com/top-southeast-asia-ecommerce-companies-shopee-lazada-and-co/,verified,Tarad (1999) predates as a smaller marketplace
+ecommerce_marketplace,VNM,2012,Lazada,https://medium.com/@tmo_group/top-10-must-know-southeast-asia-marketplaces-2021-update-5bc7b39f9dae,https://kathrynread.com/top-southeast-asia-ecommerce-companies-shopee-lazada-and-co/,verified,
+mobile_wallet,CHN,2004,Alipay,https://en.wikipedia.org/wiki/Alipay,,single_source,
+mobile_wallet,USA,2009,Venmo,https://en.wikipedia.org/wiki/Venmo,,single_source,PayPal (1998) was web-based
+mobile_wallet,IND,2014,Paytm wallet,https://en.wikipedia.org/wiki/Paytm,,single_source,
+mobile_wallet,PHL,2004,GCash,https://en.wikipedia.org/wiki/GCash,https://unbox.ph/featured/gcash-evolution-history/,verified,SMS-based; Smart Money (2001) earlier
+mobile_wallet,IDN,2007,T-Cash (Telkomsel),https://medium.com/mobiletopup/digital-cash-is-here-say-goodbye-to-your-wallet-ec57b2c48058,https://www.thejakartapost.com/news/2012/02/27/telecom-operators-struggle-expand-e-wallet-services.html,verified,
+mobile_wallet,VNM,2010,MoMo,https://digitalinasia.com/momo-growth-story/,https://fintechnews.sg/3627/mobilepayments/momo-the-rising-star-of-vietnam-fintech-in-online-payments/,verified,app 2014
+mobile_wallet,THA,2013,TrueMoney Wallet,https://en.wikipedia.org/wiki/TrueMoney,https://docs.antom.com/ac/antomad/truemoney,verified,
+mobile_wallet,SGP,2016,GrabPay,https://www.sec.gov/Archives/edgar/data/1855612/000119312521232151/d496451df4.htm,https://www.grab.com/sg/press/others/grab-launches-grabpay-e-wallet-in-hawker-stalls-restaurants-and-shops-in-singapore/,verified,
+mobile_wallet,MYS,2017,Touch 'n Go eWallet,https://en.wikipedia.org/wiki/Touch_%27n_Go_eWallet,https://www.touchngo.com.my/ewallet/about-us/our-story,verified,
+bnpl,USA,2012,Affirm,https://en.wikipedia.org/wiki/Affirm_Holdings,https://matrixbcg.com/blogs/brief-history/affirm,verified,
+bnpl,CHN,2015,Ant Huabei,https://www.sciencedirect.com/science/article/abs/pii/S1043951X23000834,,single_source,
+bnpl,IND,2015,ZestMoney,https://decentro.tech/blog/list-of-best-bnpl-apps-india/,https://www.fintechfutures.com/bnpl-payments/india-s-dmi-group-snaps-up-bnpl-fintech-zestmoney,verified,
+bnpl,IDN,2016,Kredivo / Akulaku,https://knowledge.antom.com/kredivo,https://en.wikipedia.org/wiki/Akulaku,verified,
+bnpl,PHL,2017,BillEase,https://fintechnews.ph/fintechs-in-philippines-directory/fintech/billease/,https://kapronasia.com/insight/blogs/payments-research/asia-payments-research/billease-is-the-rare-profitable-bnpl-firm,verified,
+bnpl,VNM,2019,Fundiin,https://app.dealroom.co/companies/fundiin,https://thinkzone.vn/blog/why-we-invest-fundiin-relieve-financial-burdens-for-consumers,verified,
+bnpl,SGP,2019,Atome,https://fintechnews.sg/list-fintech-startup-singapore-fintech-companies-directory/fintech/atome/,https://www.cbinsights.com/company/atome,verified,Dec 2019
+bnpl,MYS,2020,Atome,https://thepaypers.com/payments/news/atome-launches-bnpl-platform-in-malaysia,https://www.digitalnewsasia.com/business/buy-now-pay-later-platform-atome-launches-malaysia,verified,Q4 2020
+bnpl,THA,2021,Atome,https://fintechnews.sg/65438/thailand/atome-thailand-surpasses-1-billion-baht-in-gmv-since-its-launch-in-september/,https://ibsintelligence.com/ibsi-news/3-buy-now-pay-later-players-thriving-in-thailand/,verified,Sep 2021
+crypto_exchange,CHN,2011,BTC China,https://en.wikipedia.org/wiki/BTC_China,https://techcrunch.com/2013/11/18/btc-china-series-a/,verified,
+crypto_exchange,USA,2012,Coinbase,https://en.wikipedia.org/wiki/Coinbase,https://www.theblock.co/learn/295585/what-is-coinbase,verified,
+crypto_exchange,IND,2014,Zebpay,https://zebpay.com/about-us,https://startuptalky.com/zebpay-success-story/,verified,
+crypto_exchange,IDN,2014,Bitcoin.co.id (Indodax),https://www.coindesk.com/markets/2013/12/22/new-exchange-service-bitcoincoid-launches-in-indonesia,https://www.crunchbase.com/organization/bitcoin-indonesia,verified,public launch Feb 2014
+crypto_exchange,THA,2014,BX (bx.in.th),https://www.coincarp.com/exchange/bx-thailand/,,single_source,
+crypto_exchange,PHL,2014,Coins.ph,https://tracxn.com/d/companies/coinsph/__Qb5N0isaQAm9xWtI1WnPe0FebL9DT1MVGmjUumwGiHs,https://pitchbook.com/profiles/company/101080-72,verified,
+crypto_exchange,SGP,2014,Coinhako,https://press.coinhako.com/about/,https://fintechnews.sg/list-fintech-startup-singapore-fintech-companies-directory/fintech/coinhako/,verified,
+crypto_exchange,VNM,2015,Remitano,https://www.bitdegree.org/crypto/remitano-review,,single_source,

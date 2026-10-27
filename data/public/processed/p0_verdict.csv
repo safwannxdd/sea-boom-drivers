@@ -1,0 +1,4 @@
+group,best_outcome,countries_with_8yrs,years_available,verdict,note
+Fintech,"IMF FAS digital-payment value (% GDP), best of mobile money / mobile & internet banking",6,2007–2025 (varies),GO,"Singapore, Brunei and Laos have no usable FAS series; Singapore needs MAS data. Central-bank rail data adds depth for Tier A."
+Digital sectors,e-Conomy SEA GMV (country × sector),0,"2019–2025 (7 yrs), Tier A only",NARROW (1 yr short),Transport & food combined before 2021. Options: accept 7 yrs; extend with Euromonitor Passport (UCL).
+Crypto,Regulator statistics + Chainalysis index,0,~2019/2020–2025,NARROW,"No 8-year harmonised series exists. Analyse with shorter windows: licensing event studies, firm formation (Orbis)."

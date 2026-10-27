@@ -1,0 +1,26 @@
+source,role,sector_group,collection,url,http_status,content_type
+World Bank WDI + Findex,drivers,all,auto,https://api.worldbank.org/v2/,,
+IMF Financial Access Survey,outcome,fintech,auto,https://api.imf.org/external/sdmx/2.1/,,
+e-Conomy SEA regional reports (2021-25),outcome,digital,auto (PDF) + manual transcription,https://services.google.com/fh/files/misc/,404.0,text/html
+e-Conomy SEA country reports,outcome,digital,manual transcription,https://services.google.com/fh/files/misc/,404.0,text/html
+"Bank Indonesia payment statistics (SPIP, QRIS)",outcome,fintech,manual,https://www.bi.go.id/id/statistik/ekonomi-keuangan/spip/default.aspx,200.0,text/html
+Bank Negara Malaysia payment statistics,outcome,fintech,manual,https://www.bnm.gov.my/payment-statistics,403.0,text/html
+Bank of Thailand payment statistics,outcome,fintech,manual / API key,https://www.bot.or.th/en/statistics.html,200.0,text/html
+Bangko Sentral ng Pilipinas statistics,outcome,fintech,manual,https://www.bsp.gov.ph/SitePages/Statistics/Statistics.aspx,403.0,text/html
+Monetary Authority of Singapore statistics,outcome,fintech,manual,https://www.mas.gov.sg/statistics,200.0,text/html
+State Bank of Vietnam,outcome,fintech,manual,https://www.sbv.gov.vn,200.0,text/html
+National Bank of Cambodia,outcome,fintech,manual,https://www.nbc.gov.kh,200.0,text/html
+Bank of the Lao PDR,outcome,fintech,manual,https://www.bol.gov.la,,SSLError
+Central Bank of Myanmar,outcome,fintech,manual,https://www.cbm.gov.mm,200.0,text/html
+Brunei Darussalam Central Bank,outcome,fintech,manual,https://www.bdcb.gov.bn,,ConnectionError
+Banco Central de Timor-Leste,outcome,fintech,manual,https://www.bancocentral.tl,200.0,text/html
+CoinGecko API (exchanges),outcome,crypto,auto,https://api.coingecko.com/api/v3/exchanges,,
+Chainalysis Global Crypto Adoption Index,outcome,crypto,manual (annual report),https://www.chainalysis.com/blog/,200.0,text/html
+Electric Capital Developer Report,outcome,crypto,manual,https://www.developerreport.com,200.0,text/html
+Indonesia Bappebti (crypto transactions),outcome,crypto,manual,https://bappebti.go.id,,SSLError
+"Indonesia OJK (crypto, from 2025)",outcome,crypto,manual,https://www.ojk.go.id,200.0,text/html
+Thailand SEC (digital assets),outcome,crypto,manual,https://www.sec.or.th,403.0,text/html
+Securities Commission Malaysia (DAX register),event dates,crypto,manual,https://www.sc.com.my,200.0,text/html
+Oxford COVID-19 Government Response Tracker,drivers,all,auto,https://github.com/OxCGRT/covid-policy-dataset,,
+GDELT DOC 2.0 (news volume),drivers / hype control,all,auto (paced),https://api.gdeltproject.org/api/v2/doc/doc,,
+Google Trends,drivers / hype control,all,auto (heavily rate-limited),https://trends.google.com,,

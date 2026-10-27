@@ -1,0 +1,8 @@
+iso3,anchor_wallet,host_platform,host_type,launch_year,source_1,source_2,status,note
+IDN,GoPay,Gojek,ride-hailing super-app,2016,https://knowledge.antom.com/gopay,https://inc42.com/buzz/go-jek-go-pay-digital-wallet-indonesia/,verified,
+SGP,GrabPay,Grab,ride-hailing super-app,2016,https://www.sec.gov/Archives/edgar/data/1855612/000119312521232151/d496451df4.htm,https://www.grab.com/sg/press/others/grab-launches-grabpay-e-wallet-in-hawker-stalls-restaurants-and-shops-in-singapore/,verified,in-store payments from Nov 2017
+THA,Rabbit LINE Pay,LINE,messaging app,2016,https://www.linecorp.com/en/pr/news/en/2016/1312,https://www.bangkokpost.com/business/1567514/bts-launches-fare-payment-via-rabbit-line-pay-service,verified,GrabPay Thailand followed in Nov 2018
+VNM,ZaloPay,Zalo,messaging app,2017,https://fintechnews.sg/10595/vietnam/vietnams-zalo-pay-brings-payments-social-media/,https://agiletech.medium.com/zalopay-and-the-battle-in-super-app-platform-in-vietnam-d1339b147dc7,verified,
+MYS,Touch 'n Go eWallet,Touch 'n Go,transit / toll card network,2017,https://en.wikipedia.org/wiki/Touch_%27n_Go_eWallet,https://www.touchngo.com.my/ewallet/about-us/our-story,verified,JV with Ant Financial (July 2017)
+PHL,GCash,Globe Telecom,telco,2004,https://en.wikipedia.org/wiki/GCash,https://unbox.ph/featured/gcash-evolution-history/,verified,SMS service 2004; app 2012
+KHM,,,none,,,,no_anchor,Wing (2009) is a standalone mobile-money operator
